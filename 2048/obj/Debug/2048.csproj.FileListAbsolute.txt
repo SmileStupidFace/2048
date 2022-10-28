@@ -1,0 +1,8 @@
+D:\c shape\2048\2048\obj\Debug\2048.csproj.AssemblyReference.cache
+D:\c shape\2048\2048\obj\Debug\2048.csproj.SuggestedBindingRedirects.cache
+D:\c shape\2048\2048\obj\Debug\2048.csproj.CoreCompileInputs.cache
+D:\c shape\2048\2048\bin\Debug\2048.exe.config
+D:\c shape\2048\2048\bin\Debug\2048.exe
+D:\c shape\2048\2048\bin\Debug\2048.pdb
+D:\c shape\2048\2048\obj\Debug\2048.exe
+D:\c shape\2048\2048\obj\Debug\2048.pdb
